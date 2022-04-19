@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="tUF?h:WF/yCl?u;!)1l{" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id=";y4#}pn+U|9I,w{s:Zo`"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="device_forever" id=":U.qafa-gObb.0w,:X:0" x="225" y="20"/><block type="device_button_event" id=".=YS^/+q!CmU$(bMlf0?" x="410" y="126"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="*AjD/{0?[9=Y?^h*=]^Z"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_button_event" id="e)Ms3+R#Ijg=*oC!bVZ." x="295" y="301"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="N(U2jnJ{I!N6RXdf)rqo"><field name="i">IconNames.Sad</field></block></statement></block><block type="input_logo_event" id="2rSu{2wUGKq},$qD-vW[" x="169" y="500"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="basic_show_icon" id="#QPx2:KhDq_!.g#;n;k;"><field name="i">IconNames.Surprised</field></block></statement></block></xml>
